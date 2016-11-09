@@ -11,13 +11,13 @@
 // za izracunun napetostni
 long napetost_raw = 0;
 long napetost_offset = 0;
-float napetost_gain = ???;
+float napetost_gain = 0;
 float napetost = 0.0;
 
 // za izracun toka
 long tok_raw = 0;
 long tok_offset = 2048;
-float tok_gain = ???;
+float tok_gain = 0;
 float tok = 0.0;
 
 // za oceno obremenjenosti CPU-ja
